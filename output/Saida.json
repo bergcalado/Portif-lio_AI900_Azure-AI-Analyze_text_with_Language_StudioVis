@@ -1,0 +1,174 @@
+{
+    "documents": [
+        {
+            "id": "id__1222",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.39,
+                "neutral": 0.1,
+                "negative": 0.51
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.92,
+                        "neutral": 0.08,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 36,
+                    "text": "No senhor eu ponho minha confiança; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.57,
+                        "negative": 0.35
+                    },
+                    "offset": 36,
+                    "length": 68,
+                    "text": "como dizeis para minha alma: Foge como um pássaro para o teu monte? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 104,
+                    "length": 151,
+                    "text": "Pois eis que os perversos curvam seu arco, eles deixam sua flecha pronta sobre a corda, para que eles possam secretamente atirar nos retos de coração. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 255,
+                    "length": 62,
+                    "text": "Se os fundamentos forem destruídos, o que pode fazer o justo?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.62,
+                        "neutral": 0.37,
+                        "negative": 0.01
+                    },
+                    "offset": 317,
+                    "length": 22,
+                    "text": "O senhor está no céu; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.89,
+                        "negative": 0.01
+                    },
+                    "offset": 339,
+                    "length": 75,
+                    "text": "os seus olhos contemplam, e as suas pálpebras provam os filhos dos homens.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.73,
+                        "neutral": 0.26,
+                        "negative": 0.01
+                    },
+                    "offset": 414,
+                    "length": 24,
+                    "text": "O senhor prova o justo; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 438,
+                    "length": 66,
+                    "text": "porém ao perverso e àquele que ama a violência, odeia a sua alma.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 504,
+                    "length": 83,
+                    "text": "Sobre os perversos ele fará chover laços, fogo, enxofre e uma horrível tempestade; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 587,
+                    "length": 32,
+                    "text": "isto será a porção do seu copo.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 619,
+                    "length": 37,
+                    "text": "Porque o justo Senhor ama a justiça; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.22,
+                        "neutral": 0.2,
+                        "negative": 0.58
+                    },
+                    "offset": 656,
+                    "length": 36,
+                    "text": "o seu semblante contempla os retos.  ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
